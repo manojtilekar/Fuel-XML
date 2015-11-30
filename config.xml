@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<devices>
+<imeicode imei = "865072027983462">
+        <url>https://raw.githubusercontent.com/daundsugar/HPA_XML/master/transportlist.xml</url>
+        <version>1</version>
+        <rstart>1000</rstart>
+        <rend>2000</rend>
+  </imeicode>
+  <imeicode imei = "358098053001089">
+        <url>https://raw.githubusercontent.com/daundsugar/HPA_XML/master/transportlist.xml</url>
+        <version>1</version>
+        <rstart>1</rstart>
+        <rend>999</rend>
+  </imeicode>
+  <imeicode imei = "356044060792064">
+        <url>https://raw.githubusercontent.com/daundsugar/HPA_XML/master/transportlist.xml</url>
+        <version>1</version>
+        <rstart>1</rstart>
+        <rend>999</rend>
+  </imeicode>
+  <imeicode imei = "356044061108633">
+        <url>https://raw.githubusercontent.com/daundsugar/HPA_XML/master/transportlist.xml</url>
+        <version>1</version>
+        <rstart>1</rstart>
+        <rend>999</rend>
+  </imeicode>
+  <imeicode imei = "356044061115901">
+        <url>https://raw.githubusercontent.com/daundsugarr/HPA_XML/master/transportlist.xml</url>
+        <version>1</version>
+        <rstart>1</rstart>
+        <rend>999</rend>
+  </imeicode>
+   <imeicode imei = "356044060310537">
+        <url>https://raw.githubusercontent.com/daundsugar/HPA_XML/master/transportlist.xml</url>
+        <version>1</version>
+        <rstart>1</rstart>
+        <rend>999</rend>
+  </imeicode>
+</devices>
