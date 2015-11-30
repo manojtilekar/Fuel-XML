@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <loginid id = "123">
+    <username>amar dhade</username>
+    <password>12345</password>
+  </loginid>
+  <loginid id = "456">
+    <username>manoj</username>
+    <password>12345</password>
+  </loginid>
+  <loginid id = "555">
+    <username>Ravi</username>
+    <password>12345</password>
+  </loginid>
+   <loginid id = "1112">
+    <username>Kale</username>
+    <password>2222</password>
+  </loginid>
+  <loginid id = "222">
+    <username>Ganesh</username>
+    <password>2222</password>
+  </loginid>
+</users>
